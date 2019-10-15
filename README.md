@@ -1,0 +1,1 @@
+Please unzip files in folder Assets\Plugins\iOS before build ios
